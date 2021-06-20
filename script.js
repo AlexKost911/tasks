@@ -80,31 +80,3 @@ let func2 = (arr) => {
     return console.log(result)
 }
 func2(arr2)
-
-// "Задания 3"
-
-// let arr = [
-//     ['Hello', 'world'],
-//     ['Brad', 'came', 'to', 'dinner', 'with', 'us'],
-//     ['He', 'love', 'tacos']
-// ]
-// let conditions = ['LEFT', 'RIGHT', 'LEFT']
-
-// let func = (arr) => {
-//     // let a = arr[0].join(" ")
-//     // let b = arr[1].join(" ")
-//     // let c = arr[2].join(" ")
-//     for (let i = 0; i < arr.length; i++) {
-//         for (let j = 0; j < arr[i].length; j++) {
-//             if (arr[i].join(" ").length > 16) {
-//                 let a = arr[i].join(" ").length / 16
-//                 arr[i].length / a
-
-//             }
-
-//         }
-//     }
-// }
-
-
-// func(arr)
